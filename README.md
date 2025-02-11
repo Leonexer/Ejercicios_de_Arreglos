@@ -19,5 +19,5 @@ Un supermercado necesita un programa en donde almacenar sus ingresos, los cuales
 ### Ejercicio 6:
 Necesitamos un programa que capture 20 números y después de capturarlos que haga revisión de estos para indicarnos cuantos son pares y cuantos son impares.
 
-### Ejericio 7:
+### Ejercicio 7:
 Se necesita un programa que capture 20 números en tres diferentes arreglos, en el primero se almacena el numero tal cual se tecleo, en el segundo se almacena el cuadrado de dicho numero y en el tercero su cubo.
